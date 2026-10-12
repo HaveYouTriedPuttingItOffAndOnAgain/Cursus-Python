@@ -4,6 +4,7 @@ Maak een programma dat 2 getallen aan de gebruiker vraagt ("a = ", "b = ") en va
 
 Bv.
 
+
 a = 9
 b = 2
 som = 11
